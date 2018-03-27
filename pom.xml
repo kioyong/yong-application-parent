@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.yong.common</groupId>
-	<artifactId>yong-spring-boot-application-parent</artifactId>
+	<artifactId>yong-application-parent</artifactId>
 	<version>1.1.0</version>
     <packaging>pom</packaging>
 
-	<name>yong-spring-boot-application-parent</name>
+	<name>yong-application-parent</name>
 	<description>Demo project for Spring Boot</description>
 
     <parent>
