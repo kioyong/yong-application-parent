@@ -1,2 +1,2 @@
-# yong-spring-boot-application-parent
-spring boot application parent
+# yong--application-parent
+spring application parent
