@@ -81,11 +81,12 @@
             <url>https://repo.spring.io/libs-snapshot</url>
             <snapshots><enabled>true</enabled></snapshots>
         </repository>
-        <repository>
-            <id>bolingcavalry-nexus-releases</id>
-            <url>http://119.29.2.236:8081/nexus/content/repositories/releases/</url>
-            <releases><enabled>true</enabled></releases>
-        </repository>
+        <!--暂时没用到，注释-->
+        <!--<repository>-->
+            <!--<id>bolingcavalry-nexus-releases</id>-->
+            <!--<url>http://119.29.2.236:8081/nexus/content/repositories/releases/</url>-->
+            <!--<releases><enabled>true</enabled></releases>-->
+        <!--</repository>-->
     </repositories>
 
     <pluginRepositories>
